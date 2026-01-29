@@ -58,11 +58,9 @@ Email Me 👉 ✉ *amanraj.eng111@gmail.com* For Collaboration/Project or Anythi
 
 
 ### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- <p align="center">
-  <!-- <img src="https://i.ibb.co/HCjVgK6/coding-banner.gif" alt="Banner" width="90%"> -->
-</p> -->
-
+"There are few sources of energy so powerful as a procrastinating grad student."
+                      ~Aman Raj
+                                    
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amanrj111&limit=5&theme=dark&combine_all_yearly_contributions=true)

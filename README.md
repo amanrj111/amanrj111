@@ -59,9 +59,9 @@ Email Me 👉 ✉ *amanraj.eng111@gmail.com* For Collaboration/Project or Anythi
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p align="center">
-  <img src="https://i.ibb.co/HCjVgK6/coding-banner.gif" alt="Banner" width="90%">
-</p>
+<!-- <p align="center">
+  <!-- <img src="https://i.ibb.co/HCjVgK6/coding-banner.gif" alt="Banner" width="90%"> -->
+</p> -->
 
 
 ### 🔝 Top Contributed Repo
